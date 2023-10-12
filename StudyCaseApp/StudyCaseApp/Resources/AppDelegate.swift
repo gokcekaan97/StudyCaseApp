@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  StudyCaseApp
 //
-//  Created by kaan gokcek on 12.10.2023.
-//
+//  Created by kaan gokcek 
 
 import UIKit
 import CoreData
